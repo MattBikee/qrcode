@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
@@ -30,12 +30,12 @@ Only github
 ### Built with
 
 - HTML5
-- CSS GRID
+- CSS
 - FLEXBOX
 
 ### What I learned
 
-Not much tbh, just getting back to coding so its good for quick practise.
+Not much tbh, just getting back to coding so its good to get thise fingers running, lol.
 
 ### Continued development
 
