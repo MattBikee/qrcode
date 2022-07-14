@@ -35,7 +35,7 @@ Only github
 
 ### What I learned
 
-Not much tbh, just getting back to coding so its good to get thise fingers running, lol.
+Not much tbh, just getting back to coding so its good to get those fingers running, lol.
 
 ### Continued development
 
