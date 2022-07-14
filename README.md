@@ -32,6 +32,7 @@ Only github
 - HTML5
 - CSS
 - FLEXBOX
+- MEDIA QUERIES
 
 ### What I learned
 
